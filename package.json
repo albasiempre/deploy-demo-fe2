@@ -47,5 +47,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://deploy-demo-be2.vercel.app/"
+  "proxy": "https://deploy-demo-be2.vercel.app"
 }
